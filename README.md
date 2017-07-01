@@ -63,4 +63,4 @@ $ docker-compose logs -f
 ```
 
 ## Licence
-[Licence](LICENSE)
+[MIT License](LICENSE)
