@@ -1,6 +1,6 @@
 # node-docker
 
-[![Build Status](https://travis-ci.org/danielrohers/node-docker.svg?branch=master)](https://travis-ci.org/danielrohers/node-docker)
+[![Dependency Status](https://david-dm.org/danielrohers/node-docker.svg)](https://david-dm.org/danielrohers/node-docker)
 [![devDependency Status](https://david-dm.org/danielrohers/node-docker/dev-status.svg)](https://david-dm.org/danielrohers/node-docker#info=devDependencies)
 
 ## Requirements
