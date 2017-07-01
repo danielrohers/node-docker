@@ -36,6 +36,18 @@ $ docker-compose build
 $ docker-compose up -d
 ```
 
+**Go to** [http://localhost:3000](http://localhost:3000)
+
+**Be happy :)**
+
+## Extra commands
+
+**Stop and remove containers, networks, images, and volumes**
+
+```bash
+$ docker-compose down
+```
+
 **List containers**
 
 ```bash
@@ -49,10 +61,6 @@ $ docker-compose ps
 ```bash
 $ docker-compose logs -f
 ```
-
-**Go to** [http://localhost:3000](http://localhost:3000)
-
-**Be happy :)**
 
 ## Licence
 [Licence](LICENSE)
